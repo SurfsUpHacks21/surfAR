@@ -30,6 +30,7 @@ body {
 .holy-grail,
 .holy-grail-body {
 	display: flex;
+  margin-top: 300px;
 	flex: 1 1 auto;
 	flex-direction: column;
 }
